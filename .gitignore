@@ -1,0 +1,5 @@
+# Ignorar pastas do VSCode
+.vscode/
+
+# ignorar cartassupertrunfo
+CartasSuperTrunfo
