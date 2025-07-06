@@ -114,7 +114,7 @@ int main()
     resultadoArea = area1 > area2;
     resultadoPib = pib1 > pib2;
     resultadoPontosTuristicos = pontosTuristicos1 > pontosTuristicos2;
-    resultadoDensidadePopulacional = densidadePopulacional1 > densidadePopulacional2;
+    resultadoDensidadePopulacional = densidadePopulacional1 < densidadePopulacional2;
     resultadoPibPerCapita = pibPerCapita1 > pibPerCapita2;
     resultadoSuperPoder = superPoder1 > superPoder2;
 
